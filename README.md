@@ -1,2 +1,3 @@
-# hello-world
-Created to learn about git-hub.
+Hi All,
+
+Ankita here. I am here to learn Git-hub.
